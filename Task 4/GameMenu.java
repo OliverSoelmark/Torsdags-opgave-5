@@ -1,9 +1,11 @@
 import java.util.ArrayList;
 
+//Entity class
 class GameMenu{
 	
-private ArrayList<String> actions = new ArrayList<String>();
+private ArrayList<String> actions;();
 
+//Constructor
 GameMenu(ArrayList<String> actions){
 this.actions = actions;
 }

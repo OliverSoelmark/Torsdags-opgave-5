@@ -13,7 +13,7 @@ public class GuessANumber {
         makeAGuess();
     }
 
-
+    // metode
     private static void makeAGuess(){
 // Create a Scanner object  
 Scanner scan = new Scanner(System.in);
